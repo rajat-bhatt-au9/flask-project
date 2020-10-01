@@ -6,15 +6,15 @@ app = Flask(__name__)
 posts = [
     {
         'author' : 'Rajat Bhatt',
-        'title' : 'BLog post 1',
-        'content' : 'hi this is Rajat the awesome creator of websites',
+        'title' : 'Blog post 1',
+        'content' : 'Hi, this is Rajat the awesome creator of websites',
         'date-posted' : 'October 01, 2020'
 
     }, 
     {
         'author' : 'Shubham Pal',
-        'title' : 'BLog post 2',
-        'content' : 'hi this is Shubham pal the awesome creator of websites',
+        'title' : 'Blog post 2',
+        'content' : 'Hi, this is Shubham pal the awesome creator of websites',
         'date-posted' : 'April 21, 2018'
 
     }
