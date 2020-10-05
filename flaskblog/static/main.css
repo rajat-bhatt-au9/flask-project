@@ -1,5 +1,6 @@
 body {
   background: #fafafa;
+  background-color: #C4E3EE;
   color: #333333;
   margin-top: 5rem;
 }
@@ -9,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-steel {
-  background-color: #0266AD;
+  background-color: #1B1C1A;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -27,9 +28,10 @@ h1, h2, h3, h4, h5, h6 {
 .content-section {
   background: #ffffff;
   padding: 10px 20px;
-  border: 1px solid #dddddd;
+  border: 1px solid #152b47;
   border-radius: 3px;
   margin-bottom: 20px;
+  box-shadow:  8px 12px 9px #89B6D3;
 }
 
 .article-title {
